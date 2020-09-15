@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\_01_Introduction">
+      <UniqueIdentifier>{6bf526da-9347-467f-a2d0-85f5f6c42b91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\_01_Introduction\_08_StandardInput">
+      <UniqueIdentifier>{4f833ab1-57b6-4844-bb1a-3c1354cb79bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\_01_Introduction\_11_Pointers">
+      <UniqueIdentifier>{4d3a8a7f-fd52-4fad-b424-92449d63f67e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\_12_References">
+      <UniqueIdentifier>{138bd737-d4ae-49b9-ae97-1e45da1c44b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\_13_Strings">
+      <UniqueIdentifier>{162df720-c273-4cea-9d5b-821a970e73b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\_14_AutomaticTypeDeduction">
+      <UniqueIdentifier>{f751f431-092f-48fa-b132-22f7855d9a39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\_17_Constants">
+      <UniqueIdentifier>{8a44ccfb-a6e7-4d0f-a982-b8c2cd3bc540}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\_19_Functions">
+      <UniqueIdentifier>{9446c589-e4c2-44e6-a301-fdfff420b58a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\_21_ScopeLifetime">
+      <UniqueIdentifier>{2ca62620-f54f-4e3d-b896-67956ab5e342}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\25 Classes – Inheritance">
+      <UniqueIdentifier>{fa02167d-95d4-4461-b7ab-6f591128dcce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\_27_The static Specifier">
+      <UniqueIdentifier>{51a0137a-5b04-49dc-a663-c7fb18cecebf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files\_01_Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="Initialization.cpp">
+      <Filter>Source Files\_01_Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="StandardInput.cpp">
+      <Filter>Source Files\_01_Introduction\_08_StandardInput</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointers.cpp">
+      <Filter>Source Files\_01_Introduction\_11_Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="References.cpp">
+      <Filter>Source Files\_12_References</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstReference.cpp">
+      <Filter>Source Files\_12_References</Filter>
+    </ClCompile>
+    <ClCompile Include="StringSample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StringInput.cpp">
+      <Filter>Source Files\_13_Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="AutomaticTypeDeduction.cpp">
+      <Filter>Source Files\_14_AutomaticTypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="Constants.cpp">
+      <Filter>Source Files\_17_Constants</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions.cpp">
+      <Filter>Source Files\_19_Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassingArguments.cpp">
+      <Filter>Source Files\_19_Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="ScopeLifeTime.cpp">
+      <Filter>Source Files\_21_ScopeLifetime</Filter>
+    </ClCompile>
+    <ClCompile Include="Lifetime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Template.cpp">
+      <Filter>Source Files\_01_Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="SampleClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StructClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Constructors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MemberInitializerMember.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CopyConstructor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DeepCopyConstructor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CopyAssignment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveConstructors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultMoveConstructor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveAssignment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OperatorOverloading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DestructorSample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Inheritance.cpp">
+      <Filter>Source Files\25 Classes – Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="Polymorphism.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SampleInheritance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
