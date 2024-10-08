@@ -26,6 +26,10 @@ https://www.youtube.com/@cppcast9168/videos
 
 https://github.com/catchorg/Catch2
 
+https://learn.microsoft.com/en-us/cpp/?view=msvc-170
+
+
+
 
 
 https://www.jetbrains.com/clion/learn/
