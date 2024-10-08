@@ -4,6 +4,8 @@ An Introduction to Modern C++20
 
 https://godbolt.org/
 
+https://developer.nvidia.com/
+
 https://github.com/cpp-best-practices/cppbestpractices
 
 https://google.github.io/styleguide/cppguide.html
