@@ -1,8 +1,9 @@
 # Modern-C-For-Absolute-Begginers
 An Introduction to Modern C++20
-![image](https://github.com/user-attachments/assets/832afed7-6a2e-44fd-99d5-dc0317dca5bf)
 
 https://godbolt.org/
+
+https://github.com/AnthonyCalandra/modern-cpp-features
 
 https://developer.nvidia.com/
 
